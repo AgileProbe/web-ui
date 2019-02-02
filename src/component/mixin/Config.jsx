@@ -2,7 +2,7 @@ const Main = {
 	target: process.env.NODE_ENV !== 'production' ? 'http://localhost:8080/' : 'http://120.24.238.195:8080/WIFIProbeAnalysis_web-1.0-SNAPSHOT/', //目标网站
     name: 'WIFI Probe Admin',
     prefix: 'SCUNET Admin',
-    footerText: '',
+    footerText: 'Agile',
     logoSrc: 'https://t.alipayobjects.com/images/rmsweb/T1B9hfXcdvXXXXXXXX.svg',
     logoText: 'SCUNET Admin',
     needLogin: true,
