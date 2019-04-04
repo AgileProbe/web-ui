@@ -13,6 +13,7 @@ var proxy = [{
 }];
 
 /* 下面是创建一个服务对象，固定写法 */
+/*server test*/
 
 var server = new WebpackDevServer(webpack(config), {
     publicPath: config.output.publicPath, // 文件相对引用路径，就用配置文件中配置的
