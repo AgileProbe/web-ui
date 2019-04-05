@@ -21,6 +21,8 @@ class Main extends Component {
 	}
 }
 
+/*test*/
+
 Main.contextTypes = {
 };
 
